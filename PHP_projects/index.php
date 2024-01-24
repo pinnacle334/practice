@@ -8,4 +8,8 @@
 	if ($sum % 2 == 0) {
 		echo "the sum of " . $x . " and " .$y . " is an even number";
 	}
+	#ther's nothing to show here. this is just a test.
+	for ($i = 0; $i <= 6; $i++) {
+		echo $i + 4;
+	}
 ?>
